@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639915832863",
+    "project_id": "pattyventas-3bad6",
+    "storage_bucket": "pattyventas-3bad6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639915832863:android:749bf6211c603206e4c72a",
+        "android_client_info": {
+          "package_name": "com.example.pattyventas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639915832863-g0oks7ceqsb7nuit6ps8cvop68vvvfuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoBOQoNq00ip1RbudF78OjBWd54iq4w_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639915832863-g0oks7ceqsb7nuit6ps8cvop68vvvfuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
